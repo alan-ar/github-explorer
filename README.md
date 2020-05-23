@@ -1,7 +1,22 @@
-# github-explorer
+<h1 align="center">
+ <img alt="GoFinances" src="src/assets/logo.svg" />
+</h1>
 
-Projeto <strong>Github Explorer</strong></br>
-Desenvolvido durante o <strong>Bootcamp GoStack 11.0</strong> da Rocketseat
+<h3 align="center">
+ Projeto Github Explorer desenvolvido durante o 🚀Bootcamp GoStack 11.0 da <a href="https://rocketseat.com.br/">Rocketseat</a>
+</h3>
 
-  - TypeScript
-  - Frontend ReactJS
+<p align="center">
+ <img alt="Projeto" src="https://github.com/pauloricardolacerda/github-explorer/raw/master/screenshots/Dashboard.png?raw=true" />
+</p>
+
+## 📌Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [TypeScript](https://www.npmjs.com/package/typescript) Tipagem
+- [ReactJS](https://reactjs.org) Front-End
+
+## 📌Projeto
+
+Aplicação para buscar e listar os repositórios através da API do Github.
