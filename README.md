@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
- <img alt="Projeto" src="https://github.com/pauloricardolacerda/github-explorer/raw/master/screenshots/Dashboard.png?raw=true" />
+ <img alt="Projeto" src="https://github.com/pauloricardolacerda/github-explorer/raw/master/screenshots/Dashboard.png?raw=true"  width="70%"/>
 </p>
 
 ## 📌Tecnologias
