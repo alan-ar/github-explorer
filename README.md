@@ -10,8 +10,8 @@
 
 ## 📌Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-- [TypeScript]
-- [ReactJS]
+- [TypeScript](https://www.npmjs.com/package/typescript)
+- [React](https://reactjs.org)
 
 ## 📌Projeto
 Aplicação para buscar e listar os repositórios do Github através da API.
